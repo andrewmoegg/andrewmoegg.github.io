@@ -1,5 +1,3 @@
-# andrewmoegg.github.io
-
 # IT Support Specialist
 
 ### Education
