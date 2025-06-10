@@ -1,5 +1,7 @@
 # IT Support Specialist
 
+#### Technical Skills: Networking, Troubleshooting, Help Desk, Web Development
+
 ### Education
 B.A. Business Admin, Org Leadership. 2015
 Google IT Support. 2025
@@ -12,4 +14,5 @@ Web Developer @ Nuvola Designs
 - Educated clients on tech troubleshooting.
 
 ### Projects
-Weatherly
+[Weatherly] (https://www.google.com)  "Placeholder for now"
+
