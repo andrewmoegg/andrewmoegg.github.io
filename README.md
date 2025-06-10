@@ -3,9 +3,9 @@
 #### Technical Skills: Networking, Troubleshooting, Help Desk, Web Development
 
 ### Education
-B.A. Business Admin, Org Leadership. 2015
-Google IT Support. 2025
-Comp TIA A+. 2025
+#B.A. Business Admin, Org Leadership. 2015
+#Google IT Support. 2025
+#Comp TIA A+. 2025
 
 ### Work Experience
 Web Developer @ Nuvola Designs
